@@ -1,5 +1,0 @@
-*.o
-tcp_client
-tcp_server
-sv_client
-sv_server
